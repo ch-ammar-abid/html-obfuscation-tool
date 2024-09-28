@@ -18,4 +18,29 @@ To run this tool, you'll need:
 
 ```plaintext
 beautifulsoup4>=4.9.0
-lxml>=4.6.3
+lxml>=4.6.3```
+
+
+## Installation
+
+Follow these steps to set up the HTML Content Obfuscation Tool on your local machine:
+
+1. **Clone the repository:**
+
+   Open your terminal and run the following command to clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/html-obfuscation-tool.git
+   cd html-obfuscation-tool
+2. **Install the required packages:**
+
+    Use pip to install the necessary packages:
+
+    ```bash
+    Copy code
+    pip install -r requirements.txt
+
+3. **Usage:**
+    Use the Python command to run the obfuscator:
+    ```python
+    python obfuscater.py
